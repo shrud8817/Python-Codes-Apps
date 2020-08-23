@@ -13,3 +13,6 @@ Based on Markov Chain Monte Carlo we calculate the hospital resource requiremnts
 
 Inputs: Confirmed Cases daily (Time series)
 Outputs: Hospital Beds, ICUs, Ventilators
+
+
+Execute index.py via command prompt to lauch the dashboard
