@@ -1,0 +1,331 @@
+,Date,State,Confirmed,Deceased,Recovered
+1,14-Mar,Delhi,7,1,1
+2,15-Mar,Delhi,0,0,1
+3,16-Mar,Delhi,0,0,0
+4,17-Mar,Delhi,1,0,0
+5,18-Mar,Delhi,2,0,0
+6,19-Mar,Delhi,4,0,1
+7,20-Mar,Delhi,6,0,2
+8,21-Mar,Delhi,7,0,0
+9,22-Mar,Delhi,0,0,0
+10,23-Mar,Delhi,3,0,0
+11,24-Mar,Delhi,0,0,1
+12,25-Mar,Delhi,5,0,0
+13,26-Mar,Delhi,1,0,0
+14,27-Mar,Delhi,4,0,0
+15,28-Mar,Delhi,9,0,0
+16,29-Mar,Delhi,23,1,0
+17,30-Mar,Delhi,25,0,0
+18,31-Mar,Delhi,23,0,0
+19,01-Apr,Delhi,32,0,0
+20,02-Apr,Delhi,141,2,2
+21,03-Apr,Delhi,93,2,0
+22,04-Apr,Delhi,59,0,8
+23,05-Apr,Delhi,58,1,0
+24,06-Apr,Delhi,22,0,0
+25,07-Apr,Delhi,51,2,4
+26,08-Apr,Delhi,93,0,1
+27,09-Apr,Delhi,51,3,4
+28,10-Apr,Delhi,183,2,2
+29,11-Apr,Delhi,166,5,0
+30,12-Apr,Delhi,85,5,1
+31,13-Apr,Delhi,356,4,3
+32,14-Apr,Delhi,51,2,0
+33,15-Apr,Delhi,17,2,10
+34,16-Apr,Delhi,62,6,11
+35,17-Apr,Delhi,67,4,20
+36,18-Apr,Delhi,186,1,135
+37,19-Apr,Delhi,110,2,83
+38,20-Apr,Delhi,78,2,141
+39,21-Apr,Delhi,75,0,180
+40,22-Apr,Delhi,92,1,113
+41,23-Apr,Delhi,128,2,84
+42,24-Apr,Delhi,138,3,49
+43,25-Apr,Delhi,111,1,12
+44,26-Apr,Delhi,293,0,8
+45,27-Apr,Delhi,190,0,0
+46,28-Apr,Delhi,206,0,201
+47,29-Apr,Delhi,125,2,14
+48,30-Apr,Delhi,76,3,2
+49,01-May,Delhi,223,2,73
+50,02-May,Delhi,384,3,89
+51,03-May,Delhi,427,0,106
+52,04-May,Delhi,349,0,69
+53,05-May,Delhi,206,0,37
+54,06-May,Delhi,428,1,74
+55,07-May,Delhi,448,1,389
+56,08-May,Delhi,338,2,89
+57,09-May,Delhi,224,0,0
+58,10-May,Delhi,381,5,49
+59,11-May,Delhi,310,0,60
+60,12-May,Delhi,406,13,383
+61,13-May,Delhi,359,20,346
+62,14-May,Delhi,472,9,187
+63,15-May,Delhi,425,8,473
+64,16-May,Delhi,438,6,408
+65,17-May,Delhi,422,19,276
+66,18-May,Delhi,299,12,283
+67,14-Mar,Gujarat,0,0,0
+68,15-Mar,Gujarat,0,0,0
+69,16-Mar,Gujarat,0,0,0
+70,17-Mar,Gujarat,0,0,0
+71,18-Mar,Gujarat,0,0,0
+72,19-Mar,Gujarat,2,0,0
+73,20-Mar,Gujarat,5,0,0
+74,21-Mar,Gujarat,7,0,0
+75,22-Mar,Gujarat,4,1,0
+76,23-Mar,Gujarat,12,0,0
+77,24-Mar,Gujarat,4,0,0
+78,25-Mar,Gujarat,4,0,0
+79,26-Mar,Gujarat,5,2,0
+80,27-Mar,Gujarat,4,0,0
+81,28-Mar,Gujarat,8,1,0
+82,29-Mar,Gujarat,8,1,1
+83,30-Mar,Gujarat,7,1,2
+84,31-Mar,Gujarat,4,0,2
+85,01-Apr,Gujarat,13,0,0
+86,02-Apr,Gujarat,1,1,5
+87,03-Apr,Gujarat,7,2,0
+88,04-Apr,Gujarat,13,1,3
+89,05-Apr,Gujarat,20,1,8
+90,06-Apr,Gujarat,18,1,1
+91,07-Apr,Gujarat,29,2,3
+92,08-Apr,Gujarat,11,2,0
+93,09-Apr,Gujarat,76,2,1
+94,10-Apr,Gujarat,116,1,7
+95,11-Apr,Gujarat,90,3,11
+96,12-Apr,Gujarat,48,2,0
+97,13-Apr,Gujarat,56,2,10
+98,14-Apr,Gujarat,78,2,5
+99,15-Apr,Gujarat,116,5,5
+100,16-Apr,Gujarat,163,3,9
+101,17-Apr,Gujarat,170,5,13
+102,18-Apr,Gujarat,277,12,7
+103,19-Apr,Gujarat,367,10,12
+104,20-Apr,Gujarat,196,8,26
+105,21-Apr,Gujarat,239,19,8
+106,22-Apr,Gujarat,229,13,40
+107,23-Apr,Gujarat,217,9,79
+108,24-Apr,Gujarat,191,15,7
+109,25-Apr,Gujarat,256,6,17
+110,26-Apr,Gujarat,230,18,31
+111,27-Apr,Gujarat,247,11,81
+112,28-Apr,Gujarat,226,19,40
+113,29-Apr,Gujarat,308,16,93
+114,30-Apr,Gujarat,313,17,86
+115,01-May,Gujarat,326,22,123
+116,02-May,Gujarat,333,26,160
+117,03-May,Gujarat,374,28,146
+118,04-May,Gujarat,376,29,153
+119,05-May,Gujarat,441,49,186
+120,06-May,Gujarat,380,28,119
+121,07-May,Gujarat,388,29,209
+122,08-May,Gujarat,390,24,163
+123,09-May,Gujarat,394,23,219
+124,10-May,Gujarat,398,21,454
+125,11-May,Gujarat,347,20,235
+126,12-May,Gujarat,362,24,466
+127,13-May,Gujarat,364,29,316
+128,14-May,Gujarat,324,20,191
+129,15-May,Gujarat,340,20,282
+130,16-May,Gujarat,1057,19,273
+131,17-May,Gujarat,391,34,191
+132,18-May,Gujarat,366,35,305
+133,14-Mar,Karnataka,6,1,0
+134,15-Mar,Karnataka,0,0,0
+135,16-Mar,Karnataka,1,0,0
+136,17-Mar,Karnataka,2,0,0
+137,18-Mar,Karnataka,5,0,0
+138,19-Mar,Karnataka,1,0,0
+139,20-Mar,Karnataka,0,0,1
+140,21-Mar,Karnataka,5,0,0
+141,22-Mar,Karnataka,6,0,0
+142,23-Mar,Karnataka,7,0,1
+143,24-Mar,Karnataka,8,0,1
+144,25-Mar,Karnataka,10,0,0
+145,26-Mar,Karnataka,4,1,0
+146,27-Mar,Karnataka,9,1,2
+147,28-Mar,Karnataka,17,0,0
+148,29-Mar,Karnataka,2,0,0
+149,30-Mar,Karnataka,5,0,1
+150,31-Mar,Karnataka,13,0,2
+151,01-Apr,Karnataka,9,0,1
+152,02-Apr,Karnataka,14,0,2
+153,03-Apr,Karnataka,4,1,0
+154,04-Apr,Karnataka,16,0,0
+155,05-Apr,Karnataka,7,0,1
+156,06-Apr,Karnataka,12,0,8
+157,07-Apr,Karnataka,12,0,5
+158,08-Apr,Karnataka,6,1,3
+159,09-Apr,Karnataka,16,1,2
+160,10-Apr,Karnataka,10,0,4
+161,11-Apr,Karnataka,8,0,5
+162,12-Apr,Karnataka,17,0,15
+163,13-Apr,Karnataka,15,2,6
+164,14-Apr,Karnataka,13,2,11
+165,15-Apr,Karnataka,19,2,9
+166,16-Apr,Karnataka,36,1,2
+167,17-Apr,Karnataka,44,0,6
+168,18-Apr,Karnataka,25,1,16
+169,19-Apr,Karnataka,6,2,7
+170,20-Apr,Karnataka,18,0,1
+171,21-Apr,Karnataka,10,1,17
+172,22-Apr,Karnataka,9,0,2
+173,23-Apr,Karnataka,18,0,14
+174,24-Apr,Karnataka,29,1,7
+175,25-Apr,Karnataka,26,0,6
+176,26-Apr,Karnataka,3,1,24
+177,27-Apr,Karnataka,9,1,11
+178,28-Apr,Karnataka,11,0,14
+179,29-Apr,Karnataka,12,1,9
+180,30-Apr,Karnataka,30,1,13
+181,01-May,Karnataka,24,0,22
+182,02-May,Karnataka,12,3,20
+183,03-May,Karnataka,13,0,22
+184,04-May,Karnataka,37,2,28
+185,05-May,Karnataka,22,2,10
+186,06-May,Karnataka,20,0,23
+187,07-May,Karnataka,12,1,12
+188,08-May,Karnataka,48,0,10
+189,09-May,Karnataka,41,0,10
+190,10-May,Karnataka,54,1,36
+191,11-May,Karnataka,14,0,4
+192,12-May,Karnataka,63,0,7
+193,13-May,Karnataka,34,2,18
+194,14-May,Karnataka,28,2,9
+195,15-May,Karnataka,69,1,20
+196,16-May,Karnataka,36,0,16
+197,17-May,Karnataka,55,1,13
+198,18-May,Karnataka,99,0,21
+199,14-Mar,Maharashtra,14,0,0
+200,15-Mar,Maharashtra,18,0,0
+201,16-Mar,Maharashtra,6,0,0
+202,17-Mar,Maharashtra,3,1,0
+203,18-Mar,Maharashtra,3,0,0
+204,19-Mar,Maharashtra,4,0,0
+205,20-Mar,Maharashtra,4,0,0
+206,21-Mar,Maharashtra,12,0,0
+207,22-Mar,Maharashtra,10,1,0
+208,23-Mar,Maharashtra,23,0,0
+209,24-Mar,Maharashtra,10,0,0
+210,25-Mar,Maharashtra,15,0,1
+211,26-Mar,Maharashtra,3,1,0
+212,27-Mar,Maharashtra,31,1,18
+213,28-Mar,Maharashtra,30,2,6
+214,29-Mar,Maharashtra,17,1,0
+215,30-Mar,Maharashtra,17,2,14
+216,31-Mar,Maharashtra,82,1,0
+217,01-Apr,Maharashtra,33,3,0
+218,02-Apr,Maharashtra,88,8,3
+219,03-Apr,Maharashtra,64,5,8
+220,04-Apr,Maharashtra,148,6,2
+221,05-Apr,Maharashtra,112,13,4
+222,06-Apr,Maharashtra,121,7,14
+223,07-Apr,Maharashtra,150,12,9
+224,08-Apr,Maharashtra,117,8,38
+225,09-Apr,Maharashtra,229,25,8
+226,10-Apr,Maharashtra,210,12,63
+227,11-Apr,Maharashtra,187,17,20
+228,12-Apr,Maharashtra,221,22,9
+229,13-Apr,Maharashtra,352,11,12
+230,14-Apr,Maharashtra,346,18,30
+231,15-Apr,Maharashtra,236,9,36
+232,16-Apr,Maharashtra,285,7,5
+233,17-Apr,Maharashtra,120,7,31
+234,18-Apr,Maharashtra,327,10,34
+235,19-Apr,Maharashtra,552,12,142
+236,20-Apr,Maharashtra,466,9,65
+237,21-Apr,Maharashtra,552,19,150
+238,22-Apr,Maharashtra,431,18,67
+239,23-Apr,Maharashtra,778,14,51
+240,24-Apr,Maharashtra,390,18,117
+241,25-Apr,Maharashtra,811,22,119
+242,26-Apr,Maharashtra,440,19,112
+243,27-Apr,Maharashtra,522,27,94
+244,28-Apr,Maharashtra,728,31,106
+245,29-Apr,Maharashtra,597,32,205
+246,30-Apr,Maharashtra,583,27,180
+247,01-May,Maharashtra,1008,26,106
+248,02-May,Maharashtra,790,36,121
+249,03-May,Maharashtra,678,27,115
+250,04-May,Maharashtra,1567,35,350
+251,05-May,Maharashtra,984,34,354
+252,06-May,Maharashtra,1233,34,275
+253,07-May,Maharashtra,1216,43,207
+254,08-May,Maharashtra,1089,37,169
+255,09-May,Maharashtra,1165,48,330
+256,10-May,Maharashtra,1943,53,399
+257,11-May,Maharashtra,1230,36,587
+258,12-May,Maharashtra,1026,53,339
+259,13-May,Maharashtra,1495,54,422
+260,14-May,Maharashtra,1602,44,542
+261,15-May,Maharashtra,1576,49,475
+262,16-May,Maharashtra,1606,67,524
+263,17-May,Maharashtra,2347,63,600
+264,18-May,Maharashtra,2005,51,749
+265,14-Mar,Madhya Pradesh,0,0,0
+266,15-Mar,Madhya Pradesh,0,0,0
+267,16-Mar,Madhya Pradesh,0,0,0
+268,17-Mar,Madhya Pradesh,0,0,0
+269,18-Mar,Madhya Pradesh,0,0,0
+270,19-Mar,Madhya Pradesh,0,0,0
+271,20-Mar,Madhya Pradesh,4,0,0
+272,21-Mar,Madhya Pradesh,0,0,0
+273,22-Mar,Madhya Pradesh,2,0,0
+274,23-Mar,Madhya Pradesh,0,0,0
+275,24-Mar,Madhya Pradesh,1,0,0
+276,25-Mar,Madhya Pradesh,8,1,0
+277,26-Mar,Madhya Pradesh,5,0,0
+278,27-Mar,Madhya Pradesh,9,1,0
+279,28-Mar,Madhya Pradesh,10,0,0
+280,29-Mar,Madhya Pradesh,0,0,0
+281,30-Mar,Madhya Pradesh,8,2,0
+282,31-Mar,Madhya Pradesh,19,1,0
+283,01-Apr,Madhya Pradesh,32,1,0
+284,02-Apr,Madhya Pradesh,9,2,0
+285,03-Apr,Madhya Pradesh,47,0,0
+286,04-Apr,Madhya Pradesh,25,3,0
+287,05-Apr,Madhya Pradesh,14,2,3
+288,06-Apr,Madhya Pradesh,63,2,8
+289,07-Apr,Madhya Pradesh,34,6,10
+290,08-Apr,Madhya Pradesh,51,3,4
+291,09-Apr,Madhya Pradesh,70,9,0
+292,10-Apr,Madhya Pradesh,40,4,12
+293,11-Apr,Madhya Pradesh,78,4,1
+294,12-Apr,Madhya Pradesh,33,3,3
+295,13-Apr,Madhya Pradesh,52,7,10
+296,14-Apr,Madhya Pradesh,127,3,13
+297,15-Apr,Madhya Pradesh,197,0,0
+298,16-Apr,Madhya Pradesh,226,2,6
+299,17-Apr,Madhya Pradesh,146,14,0
+300,18-Apr,Madhya Pradesh,92,0,57
+301,19-Apr,Madhya Pradesh,5,3,4
+302,20-Apr,Madhya Pradesh,78,4,7
+303,21-Apr,Madhya Pradesh,67,4,10
+304,22-Apr,Madhya Pradesh,35,0,4
+305,23-Apr,Madhya Pradesh,100,3,51
+306,24-Apr,Madhya Pradesh,159,9,7
+307,25-Apr,Madhya Pradesh,99,7,71
+308,26-Apr,Madhya Pradesh,145,4,21
+309,27-Apr,Madhya Pradesh,75,7,55
+310,28-Apr,Madhya Pradesh,222,10,16
+311,29-Apr,Madhya Pradesh,173,10,88
+312,30-Apr,Madhya Pradesh,65,7,21
+313,01-May,Madhya Pradesh,90,8,42
+314,02-May,Madhya Pradesh,73,6,100
+315,03-May,Madhya Pradesh,49,5,174
+316,04-May,Madhya Pradesh,105,9,58
+317,05-May,Madhya Pradesh,107,11,144
+318,06-May,Madhya Pradesh,89,9,99
+319,07-May,Madhya Pradesh,114,8,132
+320,08-May,Madhya Pradesh,89,7,118
+321,09-May,Madhya Pradesh,116,11,131
+322,10-May,Madhya Pradesh,157,4,196
+323,11-May,Madhya Pradesh,171,6,71
+324,12-May,Madhya Pradesh,201,4,113
+325,13-May,Madhya Pradesh,187,7,144
+326,14-May,Madhya Pradesh,253,5,167
+327,15-May,Madhya Pradesh,169,2,112
+328,16-May,Madhya Pradesh,195,4,32
+329,17-May,Madhya Pradesh,187,5,88
+330,18-May,Madhya Pradesh,259,4,32
